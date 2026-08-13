@@ -1,0 +1,9 @@
+{
+  "name": "affiliate-training-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify + Supabase affiliate training registration platform with KCB STK integration.",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4"
+  }
+}

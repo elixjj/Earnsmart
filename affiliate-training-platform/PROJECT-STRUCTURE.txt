@@ -1,0 +1,17 @@
+affiliate-training-platform/
+├── index.html
+├── dashboard.html
+├── netlify.toml
+├── package.json
+├── .env.example
+├── .gitignore
+├── README.md
+├── supabase/
+│   └── schema.sql
+└── netlify/
+    └── functions/
+        ├── _utils.js
+        ├── register-pending-trainee.js
+        ├── initiate-stk.js
+        ├── kcb-webhook.js
+        └── get-agent-stats.js
